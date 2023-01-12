@@ -1,3 +1,5 @@
+id = serial number (my Libre 2 reads: E0:07:A4:00:04:14:D8:3E, the endiannes needs to be determined because the examples show a flipped ID)
+
 Decrypts 43 blocks of Libre 2 FRAM
 - Parameters:
 - type: Suppurted sensor type (.libre2, .libreUS14day)
